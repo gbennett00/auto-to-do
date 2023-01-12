@@ -1,0 +1,1 @@
+canvasToken=my-secret
